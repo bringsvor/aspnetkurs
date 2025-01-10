@@ -482,3 +482,32 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+LeaveManagementSystem/leave_management.db
+LeaveManagementSystem/leave_management.db-shm
+LeaveManagementSystem/leave_management.db-wal
+LeaveManagementSystem/bin/Debug/net9.0/LeaveManagementSystem.deps.json
+LeaveManagementSystem/bin/Debug/net9.0/LeaveManagementSystem.dll
+LeaveManagementSystem/bin/Debug/net9.0/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/refint/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/refint/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/ref/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/refint/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/ref/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/refint/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/refint/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/refint/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/ref/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/refint/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/ref/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/LeaveManagementSystem.pdb
+LeaveManagementSystem/obj/Debug/net9.0/ref/LeaveManagementSystem.dll
+LeaveManagementSystem/obj/Debug/net9.0/LeaveManagementSystem.pdb
+LeaveManagementSystem/obj/project.nuget.cache
+LeaveManagementSystem/obj/Debug/net9.0/LeaveManagementSystem.AssemblyInfo.cs
+LeaveManagementSystem/obj/Debug/net9.0/LeaveManagementSystem.AssemblyInfoInputs.cache
+LeaveManagementSystem/obj/Debug/net9.0/LeaveManagementSystem.assets.cache
+LeaveManagementSystem/obj/Debug/net9.0/LeaveManagementSystem.assets.cache
+LeaveManagementSystem/obj/Debug/net9.0/LeaveManagementSystem.csproj.AssemblyReference.cache
+
+*.cache
+LeaveManagementSystem/obj/project.nuget.cache
